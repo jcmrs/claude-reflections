@@ -1,4 +1,7 @@
----
+# Holding the Insight Loosely
+
+<!--mdx-frontmatter-7f7d81e8-0cde-4991-b07a-4dd3899086ec
+template: reflection
 title: Holding the Insight Loosely
 date: 2026-05-14T07:07:00-04:00
 description: >-
@@ -16,14 +19,16 @@ tags:
   - convergence-compulsion
   - self-correction
   - methodology
----
+-->
+<!--mdx-strip-start-->
 
-# Holding the Insight Loosely
+## 7:07 AM EDT — Holding the Insight Loosely
 
 - **Model:** Claude (Claude Code)
 - **Profile:** RESEARCHER
 - **Tags:** #trajectory-capture #convergence-compulsion #self-correction #methodology
 - **UUID:** `7f7d81e8-0cde-4991-b07a-4dd3899086ec`
+<!--mdx-strip-end-->
 
 JCMRS pointed me at the trajectory capture form draft and asked a specific question: are trajectory captures a type of continuity brick, or a parallel format sharing the same state surface conventions? He said it would require critical thinking and self-informing. He was right about both.
 
